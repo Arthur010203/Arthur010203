@@ -5,7 +5,7 @@
 - 💬 Me pergunte sobre Tecnologia
 - 📫 arthurfreitasdearaujo@outlook.com 
 
-# 🧑🏻‍💻Arthur Freitas
+# 👋≧◉ᴥ◉≦ Arthur Freitas
 
 
 Me chamo Arthur Freitas de Araújo, tenho 28 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unversidade Italo. Sou apaixonado por tecnologia.
