@@ -98,7 +98,7 @@ Me chamo Arthur Freitas de Araújo, tenho 28 anos e sou natural de São Paulo. A
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="100" 
+      height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur010203&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
