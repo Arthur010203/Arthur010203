@@ -45,7 +45,7 @@ Me chamo Arthur Freitas de Araújo, tenho 28 anos e sou natural de São Paulo. A
     title="Kotlin"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsnapcraft.io%2Finstall%2Fkotlin%2Fkde-neon&psig=AOvVaw0w7m-6xvZMzNvcTstDKCi9&ust=1736185421778000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjpwfKQ34oDFQAAAAAdAAAAABAE" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" 
 />
 
 <img 
