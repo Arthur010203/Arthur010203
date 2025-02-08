@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Arthur010203
 
-- 🌱 Atualmente estudo ferramentas de IA  
+- 🌱 Atualmente estudi Python  
 - 👯 Gostaria de trabalhar com desenvolvimento mobile 
 - 💬 Me pergunte sobre Tecnologia
 - 📫 arthurfreitasdearaujo@outlook.com 
