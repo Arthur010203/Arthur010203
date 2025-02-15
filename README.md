@@ -1,4 +1,4 @@
-## Olá! Eu sou o Arthur010203
+## Olá! Eu sou o Arthur
 
 - 🌱 Atualmente estudo Python  
 - 👯 Gostaria de trabalhar com desenvolvimento mobile 
