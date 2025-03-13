@@ -71,6 +71,14 @@ Me chamo Arthur Freitas de Araújo, tenho 28 anos e sou natural de São Paulo. A
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
 />
+<img 
+    align="left" 
+    alt="arduino UNO"
+    title="arduino UNO" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" 
+/>
 
 <img 
     align="left" 
