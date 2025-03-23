@@ -3,7 +3,7 @@
 - 🌱 Atualmente estudo Python  
 - 👯 Gostaria de trabalhar com desenvolvimento mobile 
 - 💬 Me pergunte sobre Tecnologia
-- 📫 arthurfreitasdearaujo@outlook.com 
+- 📫 arthurfoto01@gmail.com
 
 # (っ＾▿＾)۶🍻٩(˘◡˘ ) 
 
