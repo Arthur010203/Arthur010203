@@ -11,7 +11,7 @@ Me chamo Arthur Freitas de Araújo, tenho 28 anos e sou natural de São Paulo. A
 
 
 
-### (📡￣︶￣)    Linguagens e Tecnologias
+### (📡￣︶￣)  "  "  Linguagens e Tecnologias
 
 <img 
     align="left" 
