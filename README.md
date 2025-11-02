@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Arthur
 
-- 🌱 Atualmente estudo Python  
-- 👯 Gostaria de trabalhar com desenvolvimento mobile 
+- 🌱 Atualmente estudo Redes 
+- 👯 Gostaria de trabalhar com front-end
 - 💬 Me pergunte sobre Tecnologia
 - 📫 arthurfoto01@gmail.com
 
