@@ -3,7 +3,7 @@
 - 🌱 Atualmente estudo Redes 
 - 👯 Gostaria de trabalhar com front-end
 - 💬 Me pergunte sobre Tecnologia
-- 📫 arthurfoto01@gmail.com
+- 📫 arthurfreitasdearaujo@gmail.com    
 
 
 
