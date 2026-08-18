@@ -100,7 +100,6 @@ Me chamo Arthur Freitas de Araújo, tenho 30 anos e sou natural de São Paulo. S
 <br/>
 <br/>
 
-### 📊 Estatísticas
 
    
 
